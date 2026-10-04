@@ -40,3 +40,5 @@ python bot.py
 
 MIT
 
+LOL
+
