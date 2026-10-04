@@ -9,7 +9,7 @@
 # stream-live-alerts
 
 
-Discord bot that monitors Whowatch streamers and sends notifications when they go live. Optional support for Kick streamers.
+Discord bot that monitors streamers and sends notifications when they go live.  support for Kick and whowatch 
 
 ## Install
 
