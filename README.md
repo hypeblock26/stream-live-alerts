@@ -6,7 +6,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-# hypealert
+# stream-live-alerts
+
 
 Discord bot that monitors Whowatch streamers and sends notifications when they go live. Optional support for Kick streamers.
 
