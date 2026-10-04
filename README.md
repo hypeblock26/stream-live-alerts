@@ -39,5 +39,3 @@ python bot.py
 ## License
 
 MIT
-
-LOL
