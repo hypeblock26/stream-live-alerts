@@ -39,3 +39,12 @@ python bot.py
 ## License
 
 MIT
+
+
+
+&nbsp;
+
+<p align="center">
+<img width="1000" alt="Cat-sleeping-on-the-wall" src="https://github.com/user-attachments/assets/493ac359-e54a-4803-9fd1-49e70792dcba" />
+
+</p>
